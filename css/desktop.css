@@ -97,6 +97,9 @@
   .client-list {
     width: calc((100% - 120px) / 6);
   }
+  .mobile-menu-open {
+    display: none;
+  }
 
   /* ---------------MODAL--------------------- */
   .modal {
