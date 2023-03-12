@@ -13,7 +13,9 @@
   .nav-item {
     display: inline-block;
   }
-
+  .fuature {
+    display: none;
+  }
   .header-container {
     justify-content: space-between;
     width: 100%;
@@ -134,9 +136,9 @@
     row-gap: 64px;
     column-gap: 24px;
   }
-  .item {
+  /* .item {
     flex-basis: calc((100% - 24px) / 2);
-  }
+  } */
   .team-container {
     padding-bottom: 104px;
   }

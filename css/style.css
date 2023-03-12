@@ -379,9 +379,6 @@ img {
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
-.address li {
-  margin-right: 40px;
-}
 .address li:last-child {
   margin-right: 0px;
 }
@@ -442,25 +439,27 @@ img {
   flex-wrap: wrap;
   justify-content: center;
   margin-bottom: 72px;
+  column-gap: 24px;
 }
-.filter .item {
+/* .filter .item {
   margin-right: 24px;
-}
+} */
 .filter .item:last-child {
   margin-right: 0px;
 }
 .project {
   display: flex;
   flex-wrap: wrap;
+  column-gap: 24px;
+
+  row-gap: 48px;
 }
 .project .item {
   width: 360px;
-  margin-right: 24px;
-  margin-bottom: 48px;
 }
-.project > .item:nth-child(3n) {
+/* .project > .item:nth-child(3n) {
   margin-right: 0px;
-}
+} */
 
 .fuature {
   padding-bottom: 120px;

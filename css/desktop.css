@@ -56,9 +56,9 @@
     flex-wrap: wrap;
     gap: 24px;
   }
-  .item {
+  /* .item {
     flex-basis: calc((100% - 72px) / 4);
-  }
+  } */
   .team-section {
     padding-top: 120px;
     padding-bottom: 120px;
@@ -82,10 +82,12 @@
     padding-top: 120px;
     padding-bottom: 120px;
   }
-  .item {
+  /* .item {
     width: calc((100% - 72px) / 4);
+  } */
+  .fuature {
+    display: block;
   }
-
   /* ---------------CUSTOMERS----------------- */
   .customers {
     padding-top: 120px;
