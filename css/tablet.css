@@ -205,6 +205,10 @@
   .footer-list {
     flex-direction: column;
   }
+  .mobile-subscribe {
+    align-items: start;
+    margin-bottom: 0;
+  }
   .footer-logo-text {
     margin-bottom: 0;
   }
