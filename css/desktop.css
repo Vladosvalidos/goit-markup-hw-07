@@ -127,6 +127,13 @@
     margin-right: auto;
     margin-bottom: 0;
   }
+  .footer-form-subskribe {
+    width: auto;
+  }
+  .mobile-subscribe {
+    align-items: start;
+    margin-bottom: 0;
+  }
   /* ------------------PORTFOLIO-------------- */
   .project-list {
     padding-top: 96px;
