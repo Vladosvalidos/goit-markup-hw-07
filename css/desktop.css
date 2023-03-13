@@ -82,6 +82,9 @@
     padding-top: 120px;
     padding-bottom: 120px;
   }
+  .advantages {
+    flex-wrap: nowrap;
+  }
   /* .item {
     width: calc((100% - 72px) / 4);
   } */
