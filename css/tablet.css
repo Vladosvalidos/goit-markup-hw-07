@@ -147,10 +147,16 @@
   }
   /* ------------section benefit----------------- */
   .advantages {
-    flex-wrap: nowrap;
+    display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     row-gap: 72px;
     column-gap: 24px;
+
+    justify-content: center;
+  }
+  .advantages .item {
+    width: 264px;
   }
   .advantages.item {
     width: calc((100% - 24px) / 2);
