@@ -144,4 +144,7 @@
   .card {
     max-width: 360px;
   }
+  .footer-form-input {
+    width: 264px;
+  }
 }

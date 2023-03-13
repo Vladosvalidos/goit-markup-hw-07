@@ -147,7 +147,7 @@
   }
   /* ------------section benefit----------------- */
   .advantages {
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     flex-direction: row;
     row-gap: 72px;
     column-gap: 24px;
@@ -231,5 +231,14 @@
   /* ------------PORTFOLIO------------ */
   .project .item {
     max-width: 356px;
+  }
+  .footer-form-input {
+    width: 264px;
+  }
+  .footer-form-field {
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 24px;
+    width: auto;
   }
 }
