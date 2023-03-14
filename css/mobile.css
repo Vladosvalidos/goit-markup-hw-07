@@ -206,13 +206,12 @@
   .footer-form-field {
     flex-direction: column;
   }
-  .footer-text {
-    margin-bottom: 72px;
-  }
+
   .logo-footer {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 72px;
   }
   .footer-social {
     display: flex;
