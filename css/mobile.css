@@ -415,6 +415,12 @@
   margin-top: auto;
   margin-bottom: 48px;
 }
+.footer-form-field {
+  width: 100%;
+}
+.footer-form-input {
+  width: 100%;
+}
 @media screen and (min-width: 428px) {
   .first-section {
     background-image: linear-gradient(
