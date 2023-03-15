@@ -101,7 +101,7 @@
   .social-list {
     display: flex;
     max-width: 428px;
-    gap: 56px;
+    gap: 39px;
   }
   .social-link {
     display: flex;
@@ -266,8 +266,6 @@
 }
 .main-nav {
   justify-content: space-between;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 .advantages {
   display: flex;
@@ -388,7 +386,7 @@
   row-gap: 16px;
 }
 .mobile-menu-phone {
-  font-size: 36px;
+  font-size: 27px;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -406,7 +404,7 @@
 .social-list {
   display: flex;
   max-width: 428px;
-  gap: 56px;
+  gap: 42px;
 }
 .mobile-menu-address-list {
   display: flex;
@@ -420,6 +418,10 @@
 }
 .footer-form-input {
   width: 100%;
+}
+.header-logo {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 @media screen and (min-width: 428px) {
   .first-section {
